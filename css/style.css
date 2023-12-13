@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    /* width: 20vw;
+    height: 20vw; */
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+    background-color: #ffdfe7;
+}
+
+
+#reloj{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+    border: 2px solid gray;
+    color: black;
+    border-radius: 50%;
+    font-family: monospace;
+    font-size: 3.5rem;  
+    border:10px outset;
+    /* border: 10px ridge ; */
+    font-family: 'Kalnia', sans-serif;
+}
+p{
+   font-size: 50px; 
+}
